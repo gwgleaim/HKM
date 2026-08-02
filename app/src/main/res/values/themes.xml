@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.PegasusScanner" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
