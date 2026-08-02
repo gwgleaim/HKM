@@ -1,0 +1,12 @@
+[
+  {
+    "type": "domain",
+    "value": "example-c2.invalid",
+    "description": "PLACEHOLDER ENTRY - replace by importing a real indicator file from https://github.com/AmnestyTech/investigations"
+  },
+  {
+    "type": "package_name",
+    "value": "com.placeholder.doesnotexist",
+    "description": "PLACEHOLDER ENTRY - this file ships empty of real indicators on purpose. Import current STIX2 indicators via the in-app 'Import IOC file' button."
+  }
+]
